@@ -2,7 +2,7 @@
 
 The Mailspring Doom One theme is a dark theme for the [Mailspring](http://www.getmailspring.com/) email client that is inspired by the Doom Emacs default theme.
 
-<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
+<img src="https://gitlab.com/dwt1/mailspring-doom-one/-/blob/master/screenshot/custom-theme.png" />
 
 ## Installing This Theme
 
